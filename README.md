@@ -1,2 +1,2 @@
 # ListaEncadeada
-Atividade solicitada pelo professor refente a lista encadeada, PUC-PR
+Atividade solicitada pelo professor referente a lista encadeada, PUC-PR
